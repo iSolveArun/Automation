@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [TestSuite]" parallel="tests">
+  <test thread-count="3" name="InternetExplorerTest(failed)" parallel="tests">
+    <parameter name="Browser" value="InternetExplorer"/>
+    <classes>
+      <class name="Demosele.gettext">
+        <methods>
+          <include name="check"/>
+          <include name="testParameterWithXML"/>
+        </methods>
+      </class> <!-- Demosele.gettext -->
+    </classes>
+  </test> <!-- InternetExplorerTest(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->
