@@ -7,7 +7,8 @@ public class factorial {
 	public static void main(String[] args) {
 		
 		
-		int i,n,fact=1;
+		int n,fact=1;
+		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the values");
 		n=sc.nextInt();
@@ -17,7 +18,7 @@ public class factorial {
 		}
 		else
 		{
-			for(i=1;i<=n;i++)
+			for(int i=1;i<=n;i++)
 				fact=fact*i;
 		}
 		System.out.println("Factorial is = "+fact);

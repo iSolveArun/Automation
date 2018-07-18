@@ -7,6 +7,7 @@ public class evenandodd {
 	public static void main(String[] args) {
 		
 		int num;
+		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the value is :");
 		num=sc.nextInt();
