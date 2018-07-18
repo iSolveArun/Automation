@@ -22,6 +22,5 @@ public class factorial {
 		}
 		System.out.println("Factorial is = "+fact);
 		}
-
 	}
 
