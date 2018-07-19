@@ -7,6 +7,7 @@ public class divisiblefive {
 	public static void main(String[] args){
 		
 		int i=5,num;
+		@SuppressWarnings("resource")
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter the value: ");
 		num=scan.nextInt();
