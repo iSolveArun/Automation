@@ -2,7 +2,7 @@ package Tesrleaf;
 
 import java.util.Scanner;
 
-public class twotable {
+public class TwoTable {
 	
 	public static void main(String[] args) {
 		

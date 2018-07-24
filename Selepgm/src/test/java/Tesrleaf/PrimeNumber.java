@@ -2,7 +2,7 @@ package Tesrleaf;
 
 import java.util.Scanner;
 
-public class primenumber {
+public class PrimeNumber {
 
 	public static void main(String[] args) {
 

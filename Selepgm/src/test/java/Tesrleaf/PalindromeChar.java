@@ -2,7 +2,7 @@ package Tesrleaf;
 
 import java.util.Scanner;
 
-public class Palindromechar {
+public class PalindromeChar {
 
 	public static void main (String args[]) {
 		

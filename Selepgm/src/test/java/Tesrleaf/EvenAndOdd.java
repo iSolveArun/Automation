@@ -2,7 +2,7 @@ package Tesrleaf;
 
 import java.util.Scanner;
 
-public class evenandodd {
+public class EvenAndOdd {
 	
 	public static void main(String[] args) {
 		

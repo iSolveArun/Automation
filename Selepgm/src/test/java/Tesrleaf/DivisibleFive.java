@@ -2,7 +2,7 @@ package Tesrleaf;
 
 import java.util.Scanner;
 
-public class divisiblefive {
+public class DivisibleFive {
 
 	public static void main(String[] args){
 		

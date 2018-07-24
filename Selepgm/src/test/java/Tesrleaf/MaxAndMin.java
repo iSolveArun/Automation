@@ -1,7 +1,7 @@
 package Tesrleaf;
 
 import java.util.Scanner;
-public class maxandmin {
+public class MaxAndMin {
 		
 	public static void main(String[] args) {
 			

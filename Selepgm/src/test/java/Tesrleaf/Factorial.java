@@ -2,7 +2,7 @@ package Tesrleaf;
 
 import java.util.Scanner;
 
-public class factorial {
+public class Factorial {
 
 	public static void main(String[] args) {
 		
